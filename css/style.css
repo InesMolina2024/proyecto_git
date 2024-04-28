@@ -99,4 +99,7 @@ body{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     footer{
         background-color: burlywood;
+        padding-bottom:2em;
+        padding-left: 2em; 
+        width: 100%;
     }
